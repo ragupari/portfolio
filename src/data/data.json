@@ -1,0 +1,71 @@
+{
+    "profile": {
+      "name": "Parishith Ragumar",
+      "title": "Computer Science and Engineering UG",
+      "university": "University of Moratuwa",
+      "email": "pariunimora@gmail.com",
+      "location": "Jaffna, Sri Lanka",
+      "skills": ["HTML/CSS", "JavaScript", "React", "Node.js"]
+    },
+    "featuredProjects": [
+      {
+        "title": "E-commerce Website",
+        "description": "A full-stack e-commerce platform built with React and Node.js"
+      },
+      {
+        "title": "Weather App",
+        "description": "A weather application using OpenWeatherMap API and React"
+      }
+    ],
+    "projects": [
+      {
+        "title": "E-commerce Website",
+        "description": "A full-stack e-commerce platform built with React and Node.js"
+      },
+      {
+        "title": "Weather App",
+        "description": "A weather application using OpenWeatherMap API and React"
+      },
+      {
+        "title": "Task Manager",
+        "description": "A task management application built with React and Firebase"
+      },
+      {
+        "title": "Portfolio Website",
+        "description": "A personal portfolio website built with HTML, CSS, and JavaScript"
+      }
+    ],
+    "certifications": [
+      "Data Structures and Algorithms - University of Moratuwa (2023)",
+      "Web Development Fundamentals - Coursera (2022)"
+    ],
+    "coursework": [
+      {
+        "semester": "Semester 1",
+        "courses": [
+          {
+            "name": "Introduction to Computer Science",
+            "description": "Learned basic programming concepts, algorithms, and data structures."
+          },
+          {
+            "name": "Mathematics for Computing",
+            "description": "Studied discrete mathematics and linear algebra fundamentals."
+          }
+        ]
+      },
+      {
+        "semester": "Semester 2",
+        "courses": [
+          {
+            "name": "Data Structures and Algorithms",
+            "description": "Studied advanced data structures and algorithms, focusing on problem-solving skills."
+          },
+          {
+            "name": "Object-Oriented Programming",
+            "description": "Learned OOP concepts and their implementation in Java."
+          }
+        ]
+      }
+    ]
+  }
+  
