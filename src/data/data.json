@@ -5,67 +5,135 @@
       "university": "University of Moratuwa",
       "email": "pariunimora@gmail.com",
       "location": "Jaffna, Sri Lanka",
-      "skills": ["HTML/CSS", "JavaScript", "React", "Node.js"]
+      "skills": ["HTML/CSS", "JavaScript", "React", "Node.js"],
+      "linkedin": "https://www.linkedin.com/in/rp07official",
+      "github": "https://github.com/ragupari/",
+      "facebook":"https://m.facebook.com/people/Parishith-Ragumar/100078882093830/",
+      "instagram":"https://www.instagram.com/rp07_official/"
     },
-    "featuredProjects": [
-      {
-        "title": "E-commerce Website",
-        "description": "A full-stack e-commerce platform built with React and Node.js"
-      },
-      {
-        "title": "Weather App",
-        "description": "A weather application using OpenWeatherMap API and React"
-      }
-    ],
     "projects": [
       {
-        "title": "E-commerce Website",
-        "description": "A full-stack e-commerce platform built with React and Node.js"
+        "title": "Supply Chain Management System",
+        "description": "This project is a Supply Chain Management (SCM) system for a production company in Kandy, managing product distribution via railway and truck transportation. It features scheduling, truck route management, and driver roster constraints. The system includes database design, procedures, triggers, and reporting for sales, popular items, and work hours.",
+        "githublink": "https://github.com/ragupari/SCM-project.git",
+        "featured": true
       },
       {
-        "title": "Weather App",
-        "description": "A weather application using OpenWeatherMap API and React"
-      },
-      {
-        "title": "Task Manager",
-        "description": "A task management application built with React and Firebase"
-      },
-      {
-        "title": "Portfolio Website",
-        "description": "A personal portfolio website built with HTML, CSS, and JavaScript"
+        "title": "Nano Processor Design",
+        "description": "This project involves designing and simulating a digital system using Vivado. It includes Vivado project files, simulation source files with a slow clock, and generated bitstreams (minimum resource and extended versions). The repository also contains a text file with operational instructions and a final report detailing the design, testing, optimizations, and contributions.",
+        "githublink": "https://github.com/ragupari/nano-processor-second-sem-project.git",
+        "featured": true
       }
     ],
     "certifications": [
-      "Data Structures and Algorithms - University of Moratuwa (2023)",
-      "Web Development Fundamentals - Coursera (2022)"
+      {"name": "Building Generative AI Applications with Gradio - DeepLearning.AI (Aug, 2024)",
+      "link": "https://learn.deeplearning.ai/accomplishments/7651ea46-a041-456c-89c9-22329c100d2d?usp=sharing"},
+      {"name": "Pandas - Kaggle (Sep, 2024)",
+      "link": "https://www.kaggle.com/learn/certification/parishithragumar/pandas"}
     ],
-    "coursework": [
-      {
-        "semester": "Semester 1",
-        "courses": [
-          {
-            "name": "Introduction to Computer Science",
-            "description": "Learned basic programming concepts, algorithms, and data structures."
-          },
-          {
-            "name": "Mathematics for Computing",
-            "description": "Studied discrete mathematics and linear algebra fundamentals."
-          }
-        ]
-      },
-      {
-        "semester": "Semester 2",
-        "courses": [
-          {
-            "name": "Data Structures and Algorithms",
-            "description": "Studied advanced data structures and algorithms, focusing on problem-solving skills."
-          },
-          {
-            "name": "Object-Oriented Programming",
-            "description": "Learned OOP concepts and their implementation in Java."
-          }
-        ]
-      }
-    ]
+    
+      "coursework": [
+        {
+          "semester": "Semester 1",
+          "courses": [
+            {
+              "name": "Fluid Mechanics",
+              "description": "Studied the principles of fluid behavior, including fluid statics, dynamics, and their applications."
+            },
+            {
+              "name": "Programming Fundamentals",
+              "description": "Introduced to programming concepts, focusing on problem-solving and algorithms in a high-level language."
+            },
+            {
+              "name": "Electrical Fundamentals",
+              "description": "Covered the basics of electrical circuits, voltage, current, resistance, and power analysis."
+            },
+            {
+              "name": "Mathematics",
+              "description": "Focused on mathematical techniques such as calculus, linear algebra, and their applications in engineering."
+            },
+            {
+              "name": "Mechanics",
+              "description": "Studied the principles of statics, dynamics, and the behavior of solid objects under different forces."
+            },
+            {
+              "name": "Properties of Materials",
+              "description": "Explored material properties like strength, elasticity, and thermal conductivity, and their engineering applications."
+            }
+          ]
+        },
+        {
+          "semester": "Semester 2",
+          "courses": [
+            {
+              "name": "Program Construction",
+              "description": "Focused on building complete software programs, including problem-solving, algorithm design, and implementation."
+            },
+            {
+              "name": "Computer Organization and Digital Design",
+              "description": "Covered computer architecture, digital logic, and how computers process data at the hardware level."
+            },
+            {
+              "name": "Data Structures and Algorithms",
+              "description": "Studied advanced data structures and algorithms with an emphasis on optimization and complexity analysis."
+            },
+            {
+              "name": "Theory of Electricity",
+              "description": "Covered the fundamental theories of electricity, including electric fields, circuits, and electromagnetism."
+            },
+            {
+              "name": "Language Skills Enhancement",
+              "description": "Improved academic writing, communication, and language proficiency in technical contexts."
+            },
+            {
+              "name": "Methods of Mathematics",
+              "description": "Explored advanced mathematical methods, including techniques for solving complex problems in engineering."
+            }
+          ]
+        },
+        {
+          "semester": "Semester 3",
+          "courses": [
+            {
+              "name": "Data Communication and Networking",
+              "description": "Studied the principles of data transmission, network architectures, protocols, and networking technologies."
+            },
+            {
+              "name": "Operating Systems",
+              "description": "Covered the fundamentals of operating systems, including process management, memory management, and file systems."
+            },
+            {
+              "name": "Computer Architecture",
+              "description": "Studied the internal structure of computers, focusing on CPU design, instruction sets, and system performance."
+            },
+            {
+              "name": "Communication Skills",
+              "description": "Focused on enhancing verbal and written communication skills for technical and professional settings."
+            },
+            {
+              "name": "Database Systems",
+              "description": "Introduced database design, relational models, and SQL for managing and querying large datasets."
+            },
+            {
+              "name": "Introduction to Artificial Intelligence",
+              "description": "Covered foundational AI concepts, including search algorithms, machine learning, and intelligent systems."
+            },
+            {
+              "name": "Differential Equations",
+              "description": "Focused on methods of solving ordinary differential equations and their applications in engineering."
+            },
+            {
+              "name": "Applied Statistics",
+              "description": "Studied statistical methods for data analysis, hypothesis testing, and applications in engineering and science."
+            },
+            {
+              "name": "Fundamentals of Engineering Thermodynamics and Applications",
+              "description": "Covered the principles of thermodynamics and its applications in energy systems, heat engines, and refrigeration."
+            }
+          ]
+        }
+      ]
+  
+    
   }
   

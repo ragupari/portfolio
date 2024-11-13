@@ -15,7 +15,7 @@ function App() {
       case 'coursework':
         return <Coursework coursework={data.coursework} />;
       default:
-        return <Home profile={data.profile} featuredProjects={data.featuredProjects} certifications={data.certifications} />;
+        return <Home profile={data.profile} featuredProjects={data.projects} certifications={data.certifications} />;
     }
   };
 
